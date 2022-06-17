@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "559399230036",
+    "project_id": "gimnasios-3c05c",
+    "storage_bucket": "gimnasios-3c05c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559399230036:android:143341ed8b669c18252bc1",
+        "android_client_info": {
+          "package_name": "com.example.gimnasios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559399230036-3i82jltjk12dq9nn54a15uiiiqrptf72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlh8KtL4UNp7ddoLnXZqS4aT14URmDNtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559399230036-3i82jltjk12dq9nn54a15uiiiqrptf72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
